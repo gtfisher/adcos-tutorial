@@ -15,5 +15,10 @@ This site is built with:
 
  Run local with `npm run docs:dev`
 
- 
+ # todo
+
+- Add custom layout
+- workout how to use FB auth & onAuthState change
+- deploy to fb
+
 
