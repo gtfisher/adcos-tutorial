@@ -17,8 +17,8 @@ This site is built with:
 
  # todo
 
-- Add custom layout
-- workout how to use FB auth & onAuthState change
-- deploy to fb
+- [ ] Add custom layout
+- [ ] workout how to use FB auth & onAuthState change
+- [ ] deploy to fb
 
 
